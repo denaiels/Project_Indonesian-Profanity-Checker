@@ -23,3 +23,15 @@ This is an program to check whether an input sentence contains profane/harsh wor
 We tried the program with 3 versions of dataset splits, where the ratio is train:test, those are 70:30, 80:20, and 90:10. From the experiment we did, we found out that the most optimal dataset to use is the 70:30 ratio, because it gets the highest accuracy among the others.
 
 *DISCLAIMER: Examples shown may contain words that are offensive.*
+
+70:30 Data Split
+![](/data(split70+stopwords)/percobaan(70).png)
+![](/data(split70+stopwords)/acc(70).png)
+
+80:20 Data Split
+![](/data(split80+stopwords)/percobaan(80).png)
+![](/data(split80+stopwords)/acc(80).png)
+
+90:10 Data Split
+![](/data(split90+stopwords)/percobaan(90).png)
+![](/data(split90+stopwords)/acc(90).png)
