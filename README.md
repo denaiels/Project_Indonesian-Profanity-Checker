@@ -1,4 +1,4 @@
-# Project_Indonesian-Profanity-Checker
+# Project: Indonesian Profanity Checker
 
 **Made by Team:**
 1. Albert Lilian Thamson (2201754412)
